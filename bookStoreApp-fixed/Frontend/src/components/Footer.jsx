@@ -54,7 +54,7 @@ function Footer() {
           </div>
         </nav>
         <aside>
-          <p>Copyright © 2026 - All right reserved by Sanjay Senapati</p>
+          <p>Copyright © 2026 - All right reserved by Sanjay </p>
         </aside>
       </footer>
     </div>
